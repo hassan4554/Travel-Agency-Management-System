@@ -15,3 +15,7 @@ Employee and also to handle all bookings.
             OOPS
 ### Language:
             C++
+
+## Installation:
+1. Clone the repository.
+2. If you are using Visual Studio, open the .sln file which will run the project. Otherwise, setup the project in your compiler and run it.
