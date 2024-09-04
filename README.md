@@ -1,6 +1,6 @@
 # 🚀                                Travel-Agency-Management-System
 
-###Features:
+##Features:
 - User Sign-up and Login.
 - Costumers can book and cancel their trips. Also they can check
 the status of their booking.
