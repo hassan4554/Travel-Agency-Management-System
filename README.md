@@ -9,12 +9,12 @@ the status of their booking.
 - A database to handle all the accounts of the Customer and
 Employee and also to handle all bookings.
 
-### Design Pattern: 
-            MVC
-### Concept:
-            OOPS
 ### Language:
             C++
+### Concept:
+            Object Oriented Programming Style (OOPS)
+### Design Pattern: 
+            Modal View Controller (MVC)
 
 ## Installation:
 1. Clone the repository.
