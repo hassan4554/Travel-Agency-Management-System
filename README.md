@@ -9,8 +9,9 @@ the status of their booking.
 - A database to handle all the accounts of the Customer and
 Employee and also to handle all bookings.
 
-**Design Pattern:** MVC
-
-**Concept:** OOPS
-
-**Language:** C++
+### Design Pattern: 
+            MVC
+### Concept:
+            OOPS
+### Language:
+            C++
