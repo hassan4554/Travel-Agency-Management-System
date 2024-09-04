@@ -1,6 +1,6 @@
 # 🚀                                Travel-Agency-Management-System
 
-##Features:
+## Features:
 - User Sign-up and Login.
 - Costumers can book and cancel their trips. Also they can check
 the status of their booking.
@@ -10,5 +10,7 @@ the status of their booking.
 Employee and also to handle all bookings.
 
 **Design Pattern:** MVC
+
 **Concept:** OOPS
+
 **Language:** C++
