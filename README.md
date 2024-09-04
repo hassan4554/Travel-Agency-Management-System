@@ -1,8 +1,6 @@
 # 🚀                                Travel-Agency-Management-System
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-
-##Features:
+###Features:
 - User Sign-up and Login.
 - Costumers can book and cancel their trips. Also they can check
 the status of their booking.
