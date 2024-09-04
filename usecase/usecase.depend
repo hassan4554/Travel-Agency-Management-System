@@ -1,0 +1,185 @@
+# depslib dependency file v1.0
+1719152104 source:d:\travel agency management system\usecase\usecase\admin.cpp
+	"admin.h"
+
+1718989363 d:\travel agency management system\usecase\usecase\admin.h
+	"user.h"
+	"customercontroller.h"
+	"employeecontroller.h"
+	"tripdatabase.h"
+
+1719151385 d:\travel agency management system\usecase\usecase\user.h
+	<iostream>
+	<string>
+
+1719187048 d:\travel agency management system\usecase\usecase\customercontroller.h
+	"customer.h"
+	"booking.h"
+	"customerdatabase.h"
+	"bookingview.h"
+	<fstream>
+
+1719151722 d:\travel agency management system\usecase\usecase\customer.h
+	"user.h"
+
+1718796635 d:\travel agency management system\usecase\usecase\booking.h
+	"customer.h"
+	"trip.h"
+	"Hotel.h"
+
+1718817194 d:\travel agency management system\usecase\usecase\trip.h
+	<iostream>
+	<string>
+
+1718814424 d:\travel agency management system\usecase\usecase\hotel.h
+	<iostream>
+	<string>
+
+1719187033 d:\travel agency management system\usecase\usecase\customerdatabase.h
+	<iostream>
+	<string>
+	<fstream>
+	"customercontroller.h"
+
+1718517721 d:\travel agency management system\usecase\usecase\bookingview.h
+	"bookingcontroller.h"
+	"hotelcontroller.h"
+
+1719041895 d:\travel agency management system\usecase\usecase\bookingcontroller.h
+	"booking.h"
+	"bookingdatabase.h"
+	<iomanip>
+
+1718817621 d:\travel agency management system\usecase\usecase\bookingdatabase.h
+	"bookingcontroller.h"
+	<fstream>
+
+1718817792 d:\travel agency management system\usecase\usecase\hotelcontroller.h
+	"Hotel.h"
+
+1717665194 d:\travel agency management system\usecase\usecase\employeecontroller.h
+	"employee.h"
+	"employeedatabase.h"
+	"bookingdatabase.h"
+
+1719151761 d:\travel agency management system\usecase\usecase\employee.h
+	"user.h"
+
+1716371362 d:\travel agency management system\usecase\usecase\employeedatabase.h
+	"employee.h"
+	<fstream>
+
+1718817301 d:\travel agency management system\usecase\usecase\tripdatabase.h
+	"tripcontroller.h"
+	<fstream>
+
+1718817244 d:\travel agency management system\usecase\usecase\tripcontroller.h
+	"trip.h"
+
+1717592836 source:d:\travel agency management system\usecase\usecase\adminloginview.cpp
+	"adminloginview.h"
+
+1716390566 d:\travel agency management system\usecase\usecase\adminloginview.h
+	"admin.h"
+
+1719510291 source:d:\travel agency management system\usecase\usecase\bookingcontroller.cpp
+	"bookingcontroller.h"
+
+1719510348 source:d:\travel agency management system\usecase\usecase\bookingdatabase.cpp
+	"bookingdatabase.h"
+
+1719136331 source:d:\travel agency management system\usecase\usecase\bookingview.cpp
+	"bookingview.h"
+	"tripdatabase.h"
+	"customercontroller.h"
+
+1719151847 source:d:\travel agency management system\usecase\usecase\customer.cpp
+	"customer.h"
+
+1719510375 source:d:\travel agency management system\usecase\usecase\customercontroller.cpp
+	"customercontroller.h"
+
+1719510391 source:d:\travel agency management system\usecase\usecase\customerdatabase.cpp
+	"customerdatabase.h"
+	"customercontroller.h"
+
+1719511418 source:d:\travel agency management system\usecase\usecase\customerloginview.cpp
+	"customerloginview.h"
+	"customerdatabase.h"
+
+1717259660 d:\travel agency management system\usecase\usecase\customerloginview.h
+	"customercontroller.h"
+
+1717592222 source:d:\travel agency management system\usecase\usecase\customersigninview.cpp
+	"customersigninview.h"
+	"customerdatabase.h"
+
+1717317978 d:\travel agency management system\usecase\usecase\customersigninview.h
+	"customercontroller.h"
+
+1719151855 source:d:\travel agency management system\usecase\usecase\employee.cpp
+	"employee.h"
+
+1719510483 source:d:\travel agency management system\usecase\usecase\employeecontroller.cpp
+	"employeecontroller.h"
+
+1719510457 source:d:\travel agency management system\usecase\usecase\employeedatabase.cpp
+	"employeedatabase.h"
+	"employeecontroller.h"
+
+1718794550 source:d:\travel agency management system\usecase\usecase\employeeloginview.cpp
+	"employeeloginview.h"
+
+1716390888 d:\travel agency management system\usecase\usecase\employeeloginview.h
+	"employeecontroller.h"
+
+1717592212 source:d:\travel agency management system\usecase\usecase\employeesigninview.cpp
+	"employeesigninview.h"
+
+1716962638 d:\travel agency management system\usecase\usecase\employeesigninview.h
+	"employeecontroller.h"
+
+1718814435 source:d:\travel agency management system\usecase\usecase\hotel.cpp
+	"Hotel.h"
+
+1718812358 source:d:\travel agency management system\usecase\usecase\hotelcontroller.cpp
+	"hotelcontroller.h"
+
+1719510429 source:d:\travel agency management system\usecase\usecase\hoteldatabase.cpp
+	"hoteldatabase.h"
+
+1718516834 d:\travel agency management system\usecase\usecase\hoteldatabase.h
+	"hotelcontroller.h"
+	<fstream>
+
+1719510715 source:d:\travel agency management system\usecase\usecase\main.cpp
+	"customersigninview.h"
+	"customerloginview.h"
+	"employeesigninview.h"
+	"customerdatabase.h"
+	"employeedatabase.h"
+	"employeeloginview.h"
+	"adminloginview.h"
+	"tripdatabase.h"
+	"bookingdatabase.h"
+	"bookingview.h"
+	"hoteldatabase.h"
+
+1716408254 source:d:\travel agency management system\usecase\usecase\trip.cpp
+	"trip.h"
+
+1719510421 source:d:\travel agency management system\usecase\usecase\tripcontroller.cpp
+	"tripcontroller.h"
+	"tripdatabase.h"
+
+1719185660 source:d:\travel agency management system\usecase\usecase\booking.cpp
+	"booking.h"
+	<cstdlib>
+	<ctime>
+
+1719510409 source:d:\travel agency management system\usecase\usecase\tripdatabase.cpp
+	"tripdatabase.h"
+
+1719136474 source:d:\travel agency management system\usecase\usecase\user.cpp
+	"user.h"
+

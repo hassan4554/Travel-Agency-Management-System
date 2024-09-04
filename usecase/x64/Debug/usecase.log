@@ -1,0 +1,31 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Professional\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (usecase.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  admin.cpp
+  adminloginview.cpp
+  booking.cpp
+D:\Travel Agency Management System\usecase\booking.cpp(24,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  bookingcontroller.cpp
+  bookingdatabase.cpp
+  bookingview.cpp
+  customercontroller.cpp
+  customer.cpp
+  customerdatabase.cpp
+  customerloginview.cpp
+  customersigninview.cpp
+  employee.cpp
+  employeecontroller.cpp
+  employeedatabase.cpp
+  employeeloginview.cpp
+  employeesigninview.cpp
+  hotel.cpp
+  hotelcontroller.cpp
+  hoteldatabase.cpp
+  main.cpp
+  Generating Code...
+  Compiling...
+  trip.cpp
+  tripcontroller.cpp
+  tripdatabase.cpp
+  user.cpp
+  Generating Code...
+  LINK : D:\Travel Agency Management System\x64\Debug\Travel_Agency_Management_System.exe not found or not built by the last incremental link; performing full link
+  usecase.vcxproj -> D:\Travel Agency Management System\x64\Debug\Travel_Agency_Management_System.exe
